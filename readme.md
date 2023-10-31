@@ -1,4 +1,4 @@
-# A simple RAG the includes a documents from a google drive folder
+# A simple RAG example
 
 It takes a Google drive folder (`SOURCE_FOLDER_ID`), creates the embeddings for all documents and stores them in a local FAISS DB.
 
